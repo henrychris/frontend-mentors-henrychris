@@ -69,12 +69,9 @@ body {
     padding-bottom: 5%;
 }
 
-#qr {
-    width: 100%;
-}
-
 img {
     border-radius: 10px;
+    width: 100%;
 }
 
 .text-section {
