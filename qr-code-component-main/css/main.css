@@ -45,7 +45,7 @@ body {
 
 .background {
     background-color: var(--white);
-    width: 300px;
+    max-width: 300px;
     height: fit-content;
 
     margin: 35% auto;
