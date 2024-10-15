@@ -16,7 +16,6 @@
     --slate-500: #68778d;
     --slate-300: #d5e1ef;
     --white: #ffffff;
-    --attribution-text-color: hsl(228, 45%, 44%);
 }
 
 /*
@@ -42,7 +41,6 @@
 
 body {
     background-color: var(--slate-300);
-    font-family: "Outfit", sans-serif;
 }
 
 .background {
@@ -57,11 +55,11 @@ body {
 .card {
     width: 100%;
     height: fit-content;
-    
+
     display: flex;
     flex-direction: column;
     align-items: center;
-    
+
     padding: 10px;
     padding-bottom: 50px;
 }
@@ -77,6 +75,10 @@ body {
 
 img {
     border-radius: 10px;
+}
+
+.text-section {
+    font-family: "Outfit", sans-serif;
 }
 
 p.font-main {
