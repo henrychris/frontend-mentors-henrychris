@@ -41,6 +41,10 @@
 
 body {
     background-color: var(--slate-300);
+    height: 100vh; /* the height of the current screen */
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .background {
@@ -48,7 +52,6 @@ body {
     max-width: 300px;
     height: fit-content;
 
-    margin: 35% auto;
     border-radius: 10px;
 }
 
