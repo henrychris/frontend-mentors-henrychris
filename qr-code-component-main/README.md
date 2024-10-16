@@ -39,6 +39,8 @@ I had to review my notes when trying to position the card in the centre.
 - Learned to use CSS resets.
 - Learned the very basics of Flex, although I need to review it.
 - Learned to center an element by setting a `max-width` and setting left and right margins to `auto`.
+- Learned to center an element using Flex.
+- Learned to use `vh` length to fill an element in the viewport.
 
 ### Continued development
 
